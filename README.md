@@ -4,8 +4,8 @@ A 3D rendering of the sign welcoming you to Danish towns, using [THREE.js](https
 
 ![Byskilt Aarhus](images/byskilt-aarhus.jpeg)
 
-See it in action: https://aimeerivers.github.io/byskilt/
+See it in action: https://www.druewilding.com/byskilt/
 
-Change to a different town name: https://aimeerivers.github.io/byskilt/?name=København
+Change to a different town name: https://www.druewilding.com/byskilt/?name=København
 
-Debug mode: https://aimeerivers.github.io/byskilt/?debug=true
+Debug mode: https://www.druewilding.com/byskilt/?debug=true
